@@ -8,7 +8,7 @@ Implementation of a simple login scenario
 
 [IntelliJ Community/Ultimate Edition](https://www.jetbrains.com/idea/download)
 
-JDK 1.8+
+[JDK 1.8+](https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html)
 
 [Maven 3](https://maven.apache.org/download.cgi)
 
