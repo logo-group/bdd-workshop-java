@@ -52,3 +52,8 @@ Serenity Report
 ```
 /target/site/serenity/index.html
 ```
+
+JaCoCo Report
+```
+/target/site/jacoco-ut/index.html
+```
