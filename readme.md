@@ -7,7 +7,9 @@ Implementation of a simple login scenario
 
 
 [IntelliJ Community/Ultimate Edition](https://www.jetbrains.com/idea/download)
+
 JDK 1.8+
+
 [Maven 3](https://maven.apache.org/download.cgi)
 
 
