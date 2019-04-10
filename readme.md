@@ -6,7 +6,7 @@ Implementation of a simple login scenario
 
 
 ```
-Cucumber supported IDE(IntelliJ, Eclipse vb)
+IntelliJ Community/Ultimate Edition
 JDK 1.8+
 Maven
 ```
