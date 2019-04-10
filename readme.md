@@ -5,11 +5,11 @@ Implementation of a simple login scenario
 ## Prerequisites
 
 
-```
+
 [IntelliJ Community/Ultimate Edition](https://www.jetbrains.com/idea/download)
 JDK 1.8+
 Maven
-```
+
 
 ### Built With
 
