@@ -6,7 +6,7 @@ Implementation of a simple login scenario
 
 
 ```
-IntelliJ Community/Ultimate Edition
+[IntelliJ Community/Ultimate Edition](https://www.jetbrains.com/idea/download)
 JDK 1.8+
 Maven
 ```
