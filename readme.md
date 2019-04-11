@@ -7,6 +7,8 @@ Implementation of a simple login scenario
 
 
 [IntelliJ Community/Ultimate Edition](https://www.jetbrains.com/idea/download)
+    
+    -install "Cucumber for Java" plugin
 
 [JDK 1.8+](https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html)
 
