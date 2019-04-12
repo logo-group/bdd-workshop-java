@@ -10,6 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <selenium.version>3.6.0</selenium.version>
         <serenity.version>1.8.4</serenity.version>
         <serenity.cucumber.version>1.6.7</serenity.cucumber.version>
         <serenity.maven.version>1.8.4</serenity.maven.version>
