@@ -3,10 +3,7 @@ package com.lbs.bddworkshop.rest;
 import com.lbs.bddworkshop.domain.UserDto;
 import com.lbs.bddworkshop.services.ILoginService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping(value = "user")
@@ -23,7 +20,7 @@ public class LoginRestController implements ILoginService {
 
     @Override
     @RequestMapping(value = "/signIn", method = RequestMethod.POST)
-    public String signIn(String username, String password) {
+    public String signIn(@RequestParam String username, @RequestParam String password) {
         return loginService.signIn(username, password);
     }
 
